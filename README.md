@@ -58,7 +58,7 @@ Now, I was going to the `/r` directory, on the web page.
 
 ![image](https://user-images.githubusercontent.com/52162856/214863706-dd293bdc-1a50-40d7-9e4e-b50666a73829.png)
 
-Here I was kinda blocked during few minutes and then I realised, that I did some recursive enumeration on the directories and I found that : 
+Here I was kind of blocked during few minutes and then I realised, that I did some recursive enumeration on the directories and I found that : 
 
 ![image](https://user-images.githubusercontent.com/52162856/214864236-9b70ce42-81b4-416c-ada9-48844af7f195.png)
 
