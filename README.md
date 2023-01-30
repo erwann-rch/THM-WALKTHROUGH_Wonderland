@@ -115,6 +115,7 @@ There is a binary in the wroking directory of rabbit.
 ![image](https://user-images.githubusercontent.com/52162856/214874836-47fb5de3-506e-412b-bf48-09f02381e272.png)
 
 I decided to execute it but ... **Segmentation fault**, at the moment I guessed it was a buffer overflow so I wanted to know how this happened.
+
 ![image](https://user-images.githubusercontent.com/52162856/214877867-657365ff-1628-4507-8578-42e24444a64e.png)
 
 After a little nc to copy the file to my machine, I started analysing it with `Ghidra`. (BTW, now the IP of the machine will be diffrent because I forget to add extra time to the machine and it shut down.)
